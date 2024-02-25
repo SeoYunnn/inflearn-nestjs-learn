@@ -38,7 +38,6 @@ module.exports = {
       "error",
       "allow-null",
     ],
-    "eol-last": "error",
     "function-call-argument-newline": [
       "error",
       "never",
