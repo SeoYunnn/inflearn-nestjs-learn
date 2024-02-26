@@ -10,7 +10,7 @@ export class BoardsController {
     constructor(private boardsService: BoardsService) {
     }
 
-    @Get("/")
+    @Get("/users")
     getAllBoard() {
         return this.boardsService.getAllBoards();
     }
