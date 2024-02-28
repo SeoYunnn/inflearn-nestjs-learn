@@ -43,12 +43,12 @@ devDependencies:
   '@types/node':
     specifier: ^20.11.20
     version: 20.11.20
-  '@types/supertest':
-    specifier: ^6.0.2
-    version: 6.0.2
   '@types/uuid':
     specifier: ^9.0.8
     version: 9.0.8
+  '@types/supertest':
+    specifier: ^6.0.2
+    version: 6.0.2
   '@typescript-eslint/eslint-plugin':
     specifier: ^6.21.0
     version: 6.21.0(@typescript-eslint/parser@6.21.0)(eslint@8.57.0)(typescript@5.3.3)
